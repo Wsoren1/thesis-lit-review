@@ -1,0 +1,33 @@
+#+TITLE: TEMPLATE TITLE
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+@book{borg2005modern,
+  title={Modern multidimensional scaling: Theory and applications},
+  author={Borg, Ingwer and Groenen, Patrick JF},
+  year={2005},
+  publisher={Springer Science \& Business Media}
+}
+#+END_EXAMPLE
+
+
+* Notes
+** Research Question
+
+*** Background
+
+*** Hypothesis/Hypotheses
+
+
+** Methods
+
+** Results
+
+** Further Notes

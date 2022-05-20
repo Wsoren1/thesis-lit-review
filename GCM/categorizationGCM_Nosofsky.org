@@ -1,0 +1,26 @@
+#+TITLE: Categorization Gcm_nosofsky
+
+
+* Intro
+The exemplar is a theoretical construct where we have a categorization task in some euclidean space with normal vectors attributed with some feature.  In this case, categorization of a target object will be compared against some relevant space of features, and an exemplar.  The context of the categorization will affect the feature space, and, the normal vectors of the features are going to be scaled, in accordance with the context.  Additionally, the set of exemplars will be available to a different degree, depending on the ability to actively retrieve the exemplar in memory. In this case, then we see that frequency of presentation, recency of presentation, different forms of feedback provided during learning, etc. will influence exemplar "availability."
+
+Further point on the learning, the learning would weigh the importance of features, assuming that feature dissimilarity is some constant value
+
+
+
+Mapping Hypothesis: Any time that a stimulus was confused with another, it would map to the same category anyways.
+
+Useful case of the model is that after estimation of a free parameter (say, the weight in a certain dimension) we can then use that as a metric to study with (say, participants who are likely to assign a certain feature with a class, that can then be correlated with something else.  Such an example could then indicate something like "superficialness," like assuming physical appearance could align with political ideology or something along those lines)
+
+left off at page "29" (pdf page 12 of 22)
+
+** Questions
+- Are we suggesting with the vitality point, that there is a set of features that would have high distance for mannequins and humans, but another set of features for structure are low distance? If so, does that suggest that there would be a correlation with context and the related distance as a function of the two objects and the vector space we are in?
+
+- What is a direct mapping vs an indirect mapping?
+
+
+*** Type 1 vs. type 2 thinking
+Regarding context, is categorization researched under type 1 thinking paradigm or type 2? In such case, would we see some transformations that are similar to considering the exclusion of a normal vector associated with the features? Is such a feature space limited to only a subset? Are highly weighted ones more likely to be used in such a context?
+
+In contrast, would we say that there's some SDT play going on here? Would type 1 thinking only reduce criterion in this case?

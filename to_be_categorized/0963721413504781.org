@@ -1,0 +1,28 @@
+#+TITLE: TEMPLATE TITLE
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+
+#+END_EXAMPLE
+
+
+* Notes
+** Research Question
+
+*** Background
+
+*** Hypothesis/Hypotheses
+
+
+** Methods
+
+** Results
+
+** Further Notes

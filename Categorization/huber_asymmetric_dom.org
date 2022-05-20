@@ -1,0 +1,42 @@
+#+TITLE: Huber Asymmetric Dom
+
+
+* Intro
+Luce model of choice:
+- assumption present that new offering will take from others in proportion to their original shares
+  + Less likely to choose certain brand at introduction of new brand.
+- General agreement that new product does not uniformly take from each choice, rather, disproportionate shares taken across few sets, likely with similar items
+  + Called /similarity hypothesis/
+  + In other models of choice, this effect is consistently shown
+*Introduction of a new choice cannot increase probability of selecting a member of the original set*
+ + New model incorporates "Asymmetric domination"
+   - An alternative is "asymmetric" if it is dominated by at least one alternative in the set but is not dominated by at least one other.
+   - Interesting effect is a reversal of the similarity hypothesis.  If asymmetric, it helps similar items.
+     + reversal of similarity hypothesis
+
+Huber's model:
+- shows profit increase can happen in cases where you introduce a product that nobody chooses.
+- Shows limitation to discrete choice model assumption of "normalization."
+
+
+* Formalizations
+*Regularity*
+For any item that is a part of set $A$ where $A \subset B$, $P(a|A) \geq P(a|B)$, where conditional means choice is being made across $A$ selections.  $a \in A, B$.
+
+*Relative Similarity*
+New alternative takes disproportionate share
+"operant" for individual or aggregate choice probabilities
+
+*Domination*
+Dominated: infinite distance between choice pair.  However, contradiction occurs, because domination doesn't imply that it's dominated by everything, so distance between non-dominated pair is finite. (this is especially true for asymmetry)  Breaks distance assumptions.
+- Most models exclude dominated items.  Argue that dominated alternatives are deleted.
+  + This paper is the contradiction to dominated alternatives having no effect.  They clearly do.
+* Methods
+Note: if decoy never selected, and increases the proportion of choices in favor of the target, it violates regularity.  This is deemed uninteresting
+- Not clear on this point
+
+The increase of the percent choices to the target reverses the similarity effect though, so breaking of regularity in this context is.
+
+Reasoning for this effect:
+- Perceptual framing of decision problem and evaluation processes
+  +

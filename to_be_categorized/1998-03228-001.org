@@ -1,0 +1,78 @@
+#+TITLE: TEMPLATE TITLE
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+There is increasing evidence that fake eyewitness identification is the primary cause of
+the conviction of innocent people. In 1996, the American Psychology/Law Society and
+Division 41 of the American Psychological Association appointed a subcommittee to
+review scientific evidence and make recommendations regarding the best procedures
+for constructing and conducting lineups and photospreads. Three important themes
+from the scientific literature relevant to lineup methods were identified and reviewed,
+namely relative-judgment processes, the lineups-as-experiments analogy, and confidence
+malleability. Recommendations are made that double-blind lineup testing should be
+used, that eyewitnesses should be forewarned that the culprit might not be present, that
+distmctors should be selected based on the eyewitness's verbal description of the
+perpetrator, and that confidence should be assessed and recorded at the time of
+identification. The potential costs and benefits of these recommendations are discussed.
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+@article{wells1998eyewitness,
+  title={Eyewitness identification procedures: Recommendations for lineups and photospreads.},
+  author={Wells, Gary L and Small, Mark and Penrod, Steven and Malpass, Roy S and Fulero, Solomon M and Brimacombe, CA ELIZABETH},
+  journal={Law and Human behavior},
+  volume={22},
+  number={6},
+  pages={603},
+  year={1998},
+  publisher={Springer}
+}
+#+END_EXAMPLE
+
+
+* Notes
+** Research Question
+What are the factors of an eyewitness lineup that control identification rates for suspects, that increase a false identification of a suspect?
+
+*** Background
+False identification directly incriminates innocent suspect.
+This is responsible (as of 1998) for more wrongful convictions than all other causes combined
+
+Goal is to make eyewitness evidence more reliable, rather than jurors more skeptical of current state of eyewitness.
+
+*** Hypothesis/Hypotheses
+
+
+** Methods
+Review.
+
+** Results
+Covers:
+- Jurors evaluation of eyewitness testimony [Cutler, Penrod, & Stuve, 1988; Wells, 1984a]
+- legal safegards effectiveness [Stinson, Devenport, Cutler, & Kravitz, 1996]
+- abilities of children relative to adults to recall witnessed events [Ceci, Toglia, & Ross, 1987]
+- Reconstructive aspects of eyewitness memories [Loftus, 1979] *may be an important one to read*
+- Stress effects [Christianson, 1992]
+- Interview techniques [Fisher, 1995]
+- Individual differences [Hosch, 1994]
+- Development of false autobiographical memories [Lindsay & Read, 1995; Loftus & Ketcham, 1994]
+
+
+
+
+** Further Notes
+*** Relative-Judgement Theory
+Identification of the person heavily influenced by relative similarity of other persons to the culprit.
+- Detrimental for target absent lineups.
+
+**** Removal without replacement
+**** Warnings that culprit might not be present
+**** Relative Similarity and Rates of Choosing
+**** Dual Lineups
+**** Sequential Procedures
+
+*** Confidence-Accuracy Relationship
+*** Lure Selection
