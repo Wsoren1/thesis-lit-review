@@ -60,19 +60,49 @@ Covers:
 - Individual differences [Hosch, 1994]
 - Development of false autobiographical memories [Lindsay & Read, 1995; Loftus & Ketcham, 1994]
 
-
-
-
 ** Further Notes
 *** Relative-Judgement Theory
 Identification of the person heavily influenced by relative similarity of other persons to the culprit.
 - Detrimental for target absent lineups.
 
 **** Removal without replacement
+Two similar lineups showed that removing culprit does not fall under expectation:
+
+Expectation that target absent lineup proportion of "not present" should be equivalent to the target present's "not present" plus target present's identification of culprit.  Was not the case.  When removing culprit, same lineup's selection gravitates towards another lineup member.
+
 **** Warnings that culprit might not be present
+If this is the case, instructions that warn explicitly about target's possible absence should reduce false identifications.
+
+Warnings decreased identification rates from 78% to 33% in target-absent lineups, but in target present lineups, unchanged.
+
+notable that even with this as the case, 33% still a large proportion.
+
 **** Relative Similarity and Rates of Choosing
+
+If relative-judgement is the mechanism at play, we would expect that in target absent lineups, if similarity is equi-distant away from the culprit, versus the one suspect is more similar than all others in the lineup, that three conditions hold:
+- A: the selection of any target (opposing selection of no targets) is the same in both lineups
+- B: the most similar suspect will drastically be selected over any other in the cases where the suspect is more similar to the culprit.
+- C: same effect as B, but with confidence strength instead of accuracy.
+
 **** Dual Lineups
+Essentially, do a suspect-absent lineup, that the participant is told the same information. Once this is done, do a second lineup with the suspect.  If the participant identified someone in the suspect-absent lineup, then it is evidence against the identification of a person in a second suspect-present lineup.
+
+This only reduces false identifications.
+
 **** Sequential Procedures
+If relative judgement is the process, then simultaneous presentation of the lineup aides in the readily available comparison of all "stimuli"/persons in the scene.  Instead, present each lineup individual in sequence, where the eyewitness identifies whether the person in front of them is the culprit or not.
+
+#+BEGIN_QUOTE
+In addition, Dunning and Stern (1994) collected data on eyewitnesses' verbal descriptions
+of the process that they used to make an identification decision. Eyewitnesses who
+described their decision process as one of elimination (relative comparisons of the
+photos to each other to narrow the choices) were more likely to have made a false
+identification than were those who reported that the face "just popped out at me."
+Lindsay et al. (1991b) reported similar results when they asked staged crime eye-
+witnesses to report on the process that they used in identifying a suspect from a
+lineup.
+#+END_QUOTE
 
 *** Confidence-Accuracy Relationship
+
 *** Lure Selection
