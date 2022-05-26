@@ -1,0 +1,54 @@
+#+TITLE: An Exemplar-Based Random Walk Model of Speeded Classification Notes
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+The authors propose and test an exemplar-based random walk model for predicting response times
+in tasks of speeded, multidimensional perceptual classification. The model combines elements of
+R.M. Nosofsky's (1986) generalized context model of categorization and G.D. Logan's (1988)
+instance-based model of automaticity. In the model, exemplars race among one another to be retrieved
+from memory, with rates determined by their similarity to test items. The retrieved exemplars provide
+incremental information that enters into a random walk process for making classification decisions.
+The model predicts correctly effects of within- and between-categories similarity, individual-object
+familiarity, and extended practice on classification response times. It also builds bridges between
+the domains of categorization and automaticity.
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+@article{nosofsky1997exemplar,
+  title={An exemplar-based random walk model of speeded classification.},
+  author={Nosofsky, Robert M and Palmeri, Thomas J},
+  journal={Psychological review},
+  volume={104},
+  number={2},
+  pages={266},
+  year={1997},
+  publisher={American Psychological Association}
+}
+
+correction:
+@article{nosofsky2008exemplar,
+  title={" An exemplar-based random walk model of speeded classification": Correction to Nosofsky and Palmeri (1997).},
+  author={Nosofsky, Robert M and Palmieri, Thomas J},
+  year={2008},
+  publisher={American Psychological Association}
+}
+
+#+END_EXAMPLE
+
+
+* Notes
+** Research Question
+
+*** Background
+
+*** Hypothesis/Hypotheses
+
+
+** Methods
+
+** Results
+
+** Further Notes

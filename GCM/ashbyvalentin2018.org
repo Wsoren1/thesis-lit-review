@@ -1,14 +1,33 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: The Categorization Experiment: Experimental Design and Data Analysis Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+The long history of categorization experiments indicates that many important design choices
+can critically affect the quality of the resulting data. Unfortunately, the optimal choices depend
+on the goals of the experiment, so there is no single template that a new researcher can follow.
+This chapter describes methods needed to design effective categorization experiments, and spe-
+cialized methods for analyzing the resulting data. First, a number of important experimental
+design choices are discussed, including: 1) whether a categorization or identification experi-
+ment is more appropriate, 2) what type of category structure should be used, 3) how to choose
+the stimuli, 4) how to construct the categories so they have optimal statistical properties, 5) how
+to present feedback following each response, and 5) design choices that make it easy to assess
+participant performance. Second, several specialized methods for analyzing categorization data
+are described, including forward and backward learning curves, and a statistical procedure for
+strategy analysis that can identify participants who were guessing, using a single-cue explicit
+rule, or using some multi-cue similarity-based strategy.
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
+@article{ashby2018categorization,
+  title={The categorization experiment: Experimental design and data analysis},
+  author={Ashby, F Gregory and Valentin, Vivian V},
+  journal={Stevens handbook of experimental psychology and cognitive neuroscience, Fourth Edition, Volume Five: Methodology. New York: Wiley},
+  pages={307--333},
+  year={2018}
+}
 
 #+END_EXAMPLE
 

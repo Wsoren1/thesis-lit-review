@@ -1,15 +1,36 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: The Rule Out Procedure: A Signal-Detection-Informed Approach to the Collection of Eyewitness Identification Evidence Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+Visual recognition memory has a remarkable capacity to discriminate between what has been
+seen before and what has not been seen before. Yet, research on eyewitness lineups suggests that
+eyewitness memory is useful for detecting the presence of the culprit in a lineup, but less useful
+for detecting the absence of the culprit. We show that this asymmetry is predicted by the equal-
+variance signal-detection model. When witnesses reject lineups, they provide a global confidence
+rating that none of the lineup members is the culprit. Global confidence ratings do not scale
+match-to-memory for the suspect and are low in diagnostic value. For this reason, the equal-
+variance signal-detection model predicts the superiority of a one-person showup over a standard
+six-person simultaneous lineup. A large-scale experiment (N = 3281) confirms that showups
+have better discriminability than do standard simultaneous lineups. However, a modified lineup
+in which participants were asked to follow categorical identification decisions by assigning a
+confidence rating to each lineup member had better discriminability than both the showup and
+the standard simultaneous lineup. We call this modified lineup the rule out procedure. Results
+also revealed a relatively weak confidence-accuracy relation for global rejections of lineups, but
+a much stronger confidence-accuracy relation for rejections of individual faces. These findings
+suggest that past failures to detect suspect innocence with eyewitness lineups were attributable to
+a flaw in the design of simultaneous lineups and not to limitations of visual recognition memory.
+The rule out procedure might become the gold standard for collecting identification evidence.
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
-
+@article{smithrule,
+  title={The Rule Out Procedure: A Signal-Detection-Informed Approach to the Collection of Eyewitness Identification Evidence},
+  author={Smith, Andrew M and Ayala, Nydia T and Ying, Rebecca C}
+}
+Note: Preprint
 #+END_EXAMPLE
 
 

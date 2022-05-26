@@ -1,14 +1,24 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+The U.S. legal system increasingly accepts the idea that the confidence expressed by an eyewitness who identified a suspect from a lineup provides little information as to the accuracy of that identification. There was a time when this pessimistic assessment was entirely reasonable because of the questionable eyewitness-identification procedures that police commonly employed. However, after more than 30 years of eyewitness-identification research, our understanding of how to properly conduct a lineup has evolved considerably, and the time seems ripe to ask how eyewitness confidence informs accuracy under more pristine testing conditions (e.g., initial, uncontaminated memory tests using fair lineups, with no lineup administrator influence, and with an immediate confidence statement). Under those conditions, mock-crime studies and police department field studies have consistently shown that, for adults, (a) confidence and accuracy are strongly related and (b) high-confidence suspect identifications are remarkably accurate. However, when certain non-pristine testing conditions prevail (e.g., when unfair lineups are used), the accuracy of even a high-confidence suspect ID is seriously compromised. Unfortunately, some jurisdictions have not yet made reforms that would create pristine testing conditions and, hence, our conclusions about the reliability of high-confidence identifications cannot yet be applied to those jurisdictions. However, understanding the information value of eyewitness confidence under pristine testing conditions can help the criminal justice system to simultaneously achieve both of its main objectives: to exonerate the innocent (by better appreciating that initial, low-confidence suspect identifications are error prone) and to convict the guilty (by better appreciating that initial, high-confidence suspect identifications are surprisingly accurate under proper testing conditions).
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
+@article{wixted2017relationship,
+  title={The relationship between eyewitness confidence and identification accuracy: A new synthesis},
+  author={Wixted, John T and Wells, Gary L},
+  journal={Psychological Science in the Public Interest},
+  volume={18},
+  number={1},
+  pages={10--65},
+  year={2017},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
 
 #+END_EXAMPLE
 

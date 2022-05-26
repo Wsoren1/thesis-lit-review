@@ -1,15 +1,31 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: Exemplar-based accounts of relations between classification, recognition, and typicality. Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+Previously published sets of classification and old-new recognition memory data are reanalyzed
+within the framework of an exemplar-based generalization model. The key assumption in the
+model is that, whereas classification decisions are based on the similarity of a probe to exemplars
+of a target category relative to exemplars of contrast categories, recognition decisions are based
+on overall summed similarity of a probe to all exemplars. The summed-similarity decision rule
+is shown to be consistent with a wide variety ofrecognition memory data obtained in classification
+learning situations and may provide a unified approach to understanding relations between
+categorization and recognition.
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
-
+@article{nosofsky1988exemplar,
+  title={Exemplar-based accounts of relations between classification, recognition, and typicality.},
+  author={Nosofsky, Robert M},
+  journal={Journal of Experimental Psychology: learning, memory, and cognition},
+  volume={14},
+  number={4},
+  pages={700},
+  year={1988},
+  publisher={American Psychological Association}
+}
 #+END_EXAMPLE
 
 

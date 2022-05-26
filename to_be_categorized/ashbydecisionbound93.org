@@ -1,4 +1,4 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: Relations between Prototype, Exemplar, and Decision Bound Models of Categorization Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
@@ -9,7 +9,16 @@
 
 ** Bibtex
 #+BEGIN_EXAMPLE
-
+@article{ashby1993relations,
+  title={Relations between prototype, exemplar, and decision bound models of categorization},
+  author={Ashby, F Gregory and Maddox, W Todd},
+  journal={Journal of Mathematical Psychology},
+  volume={37},
+  number={3},
+  pages={372--400},
+  year={1993},
+  publisher={Elsevier}
+}
 #+END_EXAMPLE
 
 

@@ -1,0 +1,45 @@
+#+TITLE: Using Deep-Learning Representations of Complex Natural Stimuli as Input to Psychological Models of Classification
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+Tests of formal models of human categorization have
+traditionally been restricted to artificial categories because
+deriving psychological representations for large numbers of
+natural stimuli has been an intractable task. We show that deep
+learning may be used to solve this problem. We train an
+ensemble of convolutional neural networks (CNNs) to produce
+the multidimensional scaling (MDS) coordinates of images of
+rocks. We then show that not only are the CNNs able to predict
+the MDS coordinates of a held-out test set of rocks, but that the
+CNN-derived representations can be used in combination with
+a formal psychological model to predict human categorization
+behavior on a completely new set of rocks.
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+@inproceedings{sanders2018using,
+  title={Using Deep-Learning Representations of Complex Natural Stimuli as Input to Psychological Models of Classification.},
+  author={Sanders, Craig and Nosofsky, Robert M},
+  booktitle={CogSci},
+  year={2018}
+}
+
+#+END_EXAMPLE
+
+
+* Notes
+** Research Question
+
+*** Background
+
+*** Hypothesis/Hypotheses
+
+
+** Methods
+
+** Results
+
+** Further Notes

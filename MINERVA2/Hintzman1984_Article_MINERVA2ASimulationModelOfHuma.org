@@ -1,0 +1,44 @@
+#+TITLE: MINERVA 2: A simulation model of human memory Notes
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+An overview of a simulation model of human memory is presented. The model assumes:
+(1) that only episodic traces are stored in memory, (2) that repetition produces multiple traces
+of an item, (3) that a retrieval cue contacts all memory traces simultaneously, (4) that each
+trace is activated according to its similarity to the retrieval cue, and (5) that all traces respond
+in parallel, the retrieved information reflecting their summed output. The model has been ap-
+plied with success to a variety of phenomena found with human subjects in frequency and rec-
+ognition judgment tasks, the schema-abstraction task, and paired-associate learning. Applica-
+tion of the model to these tasks is briefly summarized.
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+@article{hintzman1984minerva,
+  title={MINERVA 2: A simulation model of human memory},
+  author={Hintzman, Douglas L},
+  journal={Behavior Research Methods, Instruments, \& Computers},
+  volume={16},
+  number={2},
+  pages={96--101},
+  year={1984},
+  publisher={Springer}
+}
+#+END_EXAMPLE
+
+
+* Notes
+** Research Question
+
+*** Background
+
+*** Hypothesis/Hypotheses
+
+
+** Methods
+
+** Results
+
+** Further Notes

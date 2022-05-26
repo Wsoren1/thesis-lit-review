@@ -1,15 +1,24 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: Eyewitness Identification: Probative Value, Criterion Shifts, and Policy Regarding the Sequential Lineup Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+Approximately 75% of DNA exonerations are cases involving mistaken identification. Lab-based experiments by psychological scientists have informed the legal system about ways to reduce the misidentification problem. One of these ideas, the sequential lineup (which shows the witness one lineup member at a time), increases the ratio of accurate to mistaken identifications compared with the traditional simultaneous lineup (which shows the witness all lineup members at once). Gronlund, Wixted, and Mickes (2014, this issue) noted that the improvement in this ratio from the sequential procedure is the result of a conservative criterion shift rather than of an increase in discriminability. Although data support that interpretation, the data do not negate the fact that probative value is higher for the sequential lineup. The question for policymakers is whether a more conservative decision criterion is desirable. Considerations include the natural asymmetry between the errors of mistaken identification versus nonidentification and the relevance of an accumulated body of archival data that suggest that witnesses in actual cases are using loose decision criteria for making identifications.
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
-
+@article{wells2014eyewitness,
+  title={Eyewitness identification: Probative value, criterion shifts, and policy regarding the sequential lineup},
+  author={Wells, Gary L},
+  journal={Current Directions in Psychological Science},
+  volume={23},
+  number={1},
+  pages={11--16},
+  year={2014},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
 #+END_EXAMPLE
 
 

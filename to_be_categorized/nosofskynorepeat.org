@@ -1,14 +1,36 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: Exemplar-Model Account of Categorization and Recognition When Training Instances Never Repeat Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+In a novel version of the classic dot-pattern prototype-distortion paradigm of category learning, Homa et
+al. (2019) tested a condition in which individual training instances never repeated, and observed results
+that they claimed severely challenged exemplar models of classification and recognition. Among the
+results was a dissociation in which participants classified transfer items with high accuracy in the no-
+repeat condition, yet in old-new recognition tests showed no ability to discriminate between old and
+new items of the same level of distortion from the prototype. In addition, speed of classification learning
+was no faster in a condition in which a small set of training instances was repeated continuously com-
+pared with the no-repeat condition. Here we show through computer-simulation modeling that exemplar
+models naturally capture the classification-recognition dissociation in the no-repeat condition, as well as
+a wide variety of other qualitative effects reported by Homa et al. (2019). We also conduct new concep-
+tual-replication experiments to investigate their reported null effect of repeated versus nonrepeated train-
+ing instances on speed of classification learning. In contrast to Homa et al. (2019) we find that speed of
+learning is substantially faster in the repeat condition than in the no-repeat condition, precisely as exem-
+plar models predict. The exemplar model also captures a wide variety of transfer effects observed fol-
+lowing the completion of category learning, including the classification-recognition dissociation
+observed across the repeat and no-repeat conditions.
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
+@article{hu2021exemplar,
+  title={Exemplar-model account of categorization and recognition when training instances never repeat.},
+  author={Hu, Mingjia and Nosofsky, Robert M},
+  journal={Journal of Experimental Psychology: Learning, Memory, and Cognition},
+  year={2021},
+  publisher={American Psychological Association}
+}
 
 #+END_EXAMPLE
 

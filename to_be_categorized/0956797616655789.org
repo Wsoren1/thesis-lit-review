@@ -1,14 +1,24 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: Unfair Lineups Make Witnesses More Likely to Confuse Innocent and Guilty Suspects Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+Eyewitness-identification studies have focused on the idea that unfair lineups (i.e., ones in which the police suspect stands out) make witnesses more willing to identify the police suspect. We examined whether unfair lineups also influence subjects’ ability to distinguish between innocent and guilty suspects and their ability to judge the accuracy of their identification. In a single experiment (N = 8,925), we compared three fair-lineup techniques used by the police with unfair lineups in which we did nothing to prevent distinctive suspects from standing out. Compared with the fair lineups, doing nothing not only increased subjects’ willingness to identify the suspect but also markedly impaired subjects’ ability to distinguish between innocent and guilty suspects. Accuracy was also reduced at every level of confidence. These results advance theory on witnesses’ identification performance and have important practical implications for how police should construct lineups when suspects have distinctive features.
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
+@article{colloff2016unfair,
+  title={Unfair lineups make witnesses more likely to confuse innocent and guilty suspects},
+  author={Colloff, Melissa F and Wade, Kimberley A and Strange, Deryn},
+  journal={Psychological Science},
+  volume={27},
+  number={9},
+  pages={1227--1239},
+  year={2016},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
 
 #+END_EXAMPLE
 

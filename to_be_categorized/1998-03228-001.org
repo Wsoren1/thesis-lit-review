@@ -1,4 +1,4 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: Eyewitness Identification Procedures: Recommendations for Lineups and Photospreads Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta

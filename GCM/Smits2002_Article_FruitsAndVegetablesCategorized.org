@@ -1,0 +1,43 @@
+#+TITLE: Fruits and vegetables categorized: An application of the generalized context model
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+In the study reported in this paper, we investigated the categorization of well-known and novel food
+items in the categories fruits and vegetables. Predictions based on Nosofsky’s (1984, 1986) generalized
+context model (GCM), on a multiplicative-similarity prototype model, and on an instantiation model as
+applied in Storms, De Boeck, and Ruts (2001) were compared. Despite suggestions in the literature that
+prototype models predict categorization from large categories better than exemplar models do, our re-
+sults showed that the exemplar-based GCM yielded clearly better predictions than did a (multiplicative-
+similarity) prototype model.
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+@article{smits2002fruits,
+  title={Fruits and vegetables categorized: An application of the generalized context model},
+  author={Smits, Tim and Storms, Gert and Rosseel, Yves and De Boeck, Paul},
+  journal={Psychonomic Bulletin \& Review},
+  volume={9},
+  number={4},
+  pages={836--844},
+  year={2002},
+  publisher={Springer}
+}
+#+END_EXAMPLE
+
+
+* Notes
+** Research Question
+
+*** Background
+
+*** Hypothesis/Hypotheses
+
+
+** Methods
+
+** Results
+
+** Further Notes

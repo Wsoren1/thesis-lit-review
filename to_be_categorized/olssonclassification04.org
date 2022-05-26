@@ -1,14 +1,31 @@
-#+TITLE: TEMPLATE TITLE
+#+TITLE: Exemplars, Prototypes, and the Flexibility of Classification Models Notes
 #+AUTHOR: Walker Sorensen
 
 * Meta
 ** Abstract
 #+BEGIN_EXAMPLE
-
+J.P. Minda and J. D. Smith (2001) showed that a prototype model outperforms an exemplar model,
+especially in larger categories or categories that contained more complex stimuli. R. M. Nosofsky and
+S.R. Zaki (2002) showed that an exemplar model with a response-scaling mechanism outperforms a
+prototype model. The authors of the current study investigated whether excessive model flexibility could
+explain these results. Using cross-validation, the authors demonstrated that both the prototype model and
+the exemplar model with a response-scaling mechanism suffered from overfitting in the linearly
+separable category structure. The results illustrate the need to make sure that the best-fitting model is not
+chasing error variance instead of variance attributed to the cognitive process it is supposed to model
 #+END_EXAMPLE
 
 ** Bibtex
 #+BEGIN_EXAMPLE
+@article{olsson2004exemplars,
+  title={Exemplars, prototypes, and the flexibility of classification models.},
+  author={Olsson, Henrik and Wennerholm, Pia and Lyxzen, Urban},
+  journal={Journal of Experimental Psychology: Learning, Memory, and Cognition},
+  volume={30},
+  number={4},
+  pages={936},
+  year={2004},
+  publisher={American Psychological Association}
+}
 
 #+END_EXAMPLE
 
