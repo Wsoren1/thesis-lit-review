@@ -1,0 +1,27 @@
+Wells, G. L., & Olson, E. A. (2003). Eyewitness testimony. Annual Review of Psychology, 54, 277-295.
+
+National Research Council (2014). Identifying the culprit: Assessing eyewitness identification. Washington, DC: National Academies Press. [probably not the whole thing; over 100 pages]
+
+Police Executive Research Forum (2013). A National Survey of Eyewitness Identification Procedures in Law Enforcement Agencies. Washington, DC: US Department of Justice
+
+Clark, S. E. (2012). Costs and benefits of eyewitness of eyewitness identification reform: Psychological Science and Public Policy. Perspectives on Psychological Science, 7, 238–259.
+
+K. L. Amendola and J. T. Wixted, "Comparing the diagnostic accuracy of suspect identificaitons made by actual eyewitnesses from simultaneous and sequentail lineups in a randomized field trial," Journal of Experimental Criminology, vol. 11, pp. 263-284, 2015.
+
+G. L. Wells, N. K. Steblay and J. E. Dysart, "Double-blind photo lineups using actual eyewitness: An experimental test of a sequential versus simultaneous lineup procedure," Law and Human Behavior, vol. 39, pp. 1-14, 2014.
+
+W. Wells, B. Campbell, Y. Li and S. Swindle, "The characeteristics and results of eyewitness identification procedures conducted during robbery investigations in Houston, TX," Policing, vol. 39, pp. 601-619, 2016.
+
+Gronlund, S. D., Mickes, L., Wixted, J. T., & Clark, S. E. (2015). Conducting an eyewitness lineup: how the research got it wrong. In B. H. Ross (Ed.), Psychology of Learning and Motivation (pp. 1–43).
+
+Semmler, C., Dunn, J., Mickes, L., & Wixted, J. T. (2018). The role of estimator variables in eyewitness identification. Journal of Experimental Psychology: Applied, 24(3), 400.
+
+Clark, S. E., Benjamin, A. S., Wixted, J. T., Mickes, L., & Gronlund, S. D. (2015). Eyewitness identification and the accuracy of the criminal justice system. Policy Insights from the Behavioral and Brain Sciences, 2(1), 175-186.
+
+Mickes, L. (2015). Receiver operating characteristic analysis and confidence–accuracy characteristic analysis in investigations of system variables and estimator variables that affect eyewitness memory. Journal of Applied Research in Memory and Cognition, 4(2), 93-102.
+
+Wixted, J. T., & Mickes, L. (2014). A signal-detection-based diagnostic-feature-detection model of eyewitness identification. Psychological Review, 121(2), 262.
+
+Clark, S. E. (2003). A memory and decision model for eyewitness identification. Applied Cognitive Psychology: The Official Journal of the Society for Applied Research in Memory and Cognition, 17(6), 629-654.
+
+Colloff, M. F., Wade, K. A., Strange, D., & Wixted, J. T. (2018). Filler-siphoning theory does not predict the effect of lineup fairness on the ability to discriminate innocent from guilty suspects.

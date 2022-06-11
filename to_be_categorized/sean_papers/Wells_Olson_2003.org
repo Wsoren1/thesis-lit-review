@@ -1,0 +1,52 @@
+#+TITLE: TEMPLATE TITLE
+#+AUTHOR: Walker Sorensen
+
+* Meta
+** Abstract
+#+BEGIN_EXAMPLE
+The criminal justice system relies heavily on eyewitness identification
+for investigating and prosecuting crimes. Psychology has built the only scientific liter-
+ature on eyewitness identification and has warned the justice system of problems with
+eyewitness identification evidence. Recent DNA exoneration cases have corroborated
+the warnings of eyewitness identification researchers by showing that mistaken eyewit-
+ness identification was the largest single factor contributing to the conviction of these
+innocent people. We review major developments in the experimental literature con-
+cerning the way that various factors relate to the accuracy of eyewitness identification.
+These factors include characteristics of the witness, characteristics of the witnessed
+event, characteristics of testimony, lineup content, lineup instructions, and methods of
+testing. Problems with the literature are noted with respect to both the relative paucity
+of theory and the scarcity of base-rate information from actual cases.
+#+END_EXAMPLE
+
+** Bibtex
+#+BEGIN_EXAMPLE
+@article{wells2003eyewitness,
+  title={Eyewitness testimony},
+  author={Wells, Gary L and Olson, Elizabeth A},
+  journal={Annual review of Psychology},
+  volume={54},
+  number={1},
+  pages={277--295},
+  year={2003},
+  publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}
+}
+
+#+END_EXAMPLE
+
+
+* Notes
+** Basic Concepts
+/Culprit/: Person originally encoded in eyewitnesses memory at time of crime/event.
+
+/Suspect/: Not necessarily the /Culprit/.  In practice, this is the only person in question presented in the lineup.
+
+/Filler/: Person in lineup who is known not to be the culprit.
+
+/Simultaneous/: All members of lineup shown at same time, eyewitness studies the array of individuals and selects.
+
+/Sequential/: Members of lineup are shown in sequence, eyewitness is aware future lineup members will be presented.
+
+/Functional size/: Number of lineup members who cannot easily be ruled out.
+- Ex: Culprit Description: Bald man.  Lineup has only one Bald man, rest have hair, or are not men.  Functional size of 1.
+
+/Mock Witness/: People who did not witness crime/event, but are given culprit description and view lineup.  /unclear what the utilization of mock witnesses should be. Would we hope that mock witnesses select each lineup member with uniform probability?/

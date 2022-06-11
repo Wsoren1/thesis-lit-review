@@ -37,13 +37,17 @@ Note: Preprint
 * Notes
 ** Research Question
 
+Eyewitness lineups suffer from relative judgement masking information about the suspect in the event of a rejected lineup.  In these cases, eyewitness is considered "neutral evidence."  In showups, this does not happen, as suspect judgement of confidence is directly reported.
+
 *** Background
 
 *** Hypothesis/Hypotheses
-
+Would a "rule-out" procedure appended to the end of a simultaneous offer the same discriminability as a showup
 
 ** Methods
 
 ** Results
 
 ** Further Notes
+
+* Journal Club Discussion
