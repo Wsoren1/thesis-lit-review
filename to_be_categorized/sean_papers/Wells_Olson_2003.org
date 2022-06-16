@@ -50,3 +50,30 @@ of theory and the scarcity of base-rate information from actual cases.
 - Ex: Culprit Description: Bald man.  Lineup has only one Bald man, rest have hair, or are not men.  Functional size of 1.
 
 /Mock Witness/: People who did not witness crime/event, but are given culprit description and view lineup.  /unclear what the utilization of mock witnesses should be. Would we hope that mock witnesses select each lineup member with uniform probability?/
+
+/Diagnosticity/: Predecessor/alternative to ROC.  Ratio of metric observed (could be rejections or filler id's) of culprit absent over culprit present lineups.
+
+/System Variable/: Variable under control of criminal justice system.
+
+/Estimator Variable/: Not under control of criminal justice system.
+- Characteristics of the witness
+- Characteristics of the event
+- Characteristics of the testimony
+- Abilities of the testimony evaluators to discriminate between accurate and inaccurate witness testimony
+
+** Estimator Variables
+*** Witness Characteristics
+Individual variability within eyewitnesses.
+
+Sex: No clear distinct sex difference
+
+Age: Young adults best.  Errors are consistent, with young children & elderly more likely to identify fillers in culprit-absent trials, but in culprit-present trials have similar performance to young adults.
+
+Intelligence: Not much of a factor.  Low extremes of intelligence may have higher rate of false identifications in culprit-absent lineups.
+
+Race: All research consistent with same-race discriminability of eyewitness is higher than across races.
+
+Personality: Not very studied, but some effects have seen light.  See page 5.
+
+*** Event Charracteristics
+Variables which seem to
